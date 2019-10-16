@@ -1,0 +1,39 @@
+127.0.0.1 localhost localdomain
+127.0.0.1 pi13
+192.168.200.1 LEDE
+192.168.200.8 tvlan
+192.168.200.9 tv9
+192.168.200.11 pi11
+192.168.200.13 pi13
+192.168.200.101 PC
+192.168.200.102 NextPVR
+192.168.200.103 compaq
+192.168.200.105 i5
+192.168.200.220 Paul
+192.168.200.221 TVremote
+192.168.200.222 wphone
+192.168.200.223 galaxy
+
+
+::1     localhost ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+fdeb:9edf:7f80::1 LEDE
+fe80::32b5:c2ff:fe38:1515 LEDE
+fdeb:9edf:7f80::b90 pi11
+fdeb:9edf:7f80:0:20c:29ff:fe52:73b7 pi11
+fdeb:9edf:7f80:0:226a:8aff:fe23:e2e9 pi13
+fdeb:9edf:7f80::b90 pi13
+fdeb:9edf:7f80::4a6 PC
+fdeb:9edf:7f80:0:3839:1cbb:f4fe:23b4 PC
+fe80::3839:1cbb:f4fe:23b4 PC
+fdeb:9edf:7f80::1e3 i5
+fdeb:9edf:7f80:0:a417:680b:b340:3713 i5
+fe80::a417:680b:b340:3713 i5
+
+
+# SHARED HOSTS - START
+
+# SHARED HOSTS - END
